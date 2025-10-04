@@ -1,0 +1,5 @@
+User-agent: *
+Disallow:
+
+# Advanced Expense Management System
+# A comprehensive expense tracking and approval workflow system
